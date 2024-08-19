@@ -5,12 +5,11 @@
 <img src="https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/icon.png" alt="drawing" width="200"/>
 
 </center>
-Paster Water is a dynamic and vibrant Visual Studio Code theme designed to ignite your coding experience with its warm and energetic color palette. Inspired by the intensity of a glowing ember, Paster Water infuses your editor with a sense of sophistication and vitality. It's a nice and minimalistic interface with borderless style (especially for Jupyter Notebook).
+Paster Water is a dynamic and vibrant Visual Studio Code theme designed to ignite your coding experience with its warm and energetic color palette. Inspired by the intensity of a glowing sunset, Paster Water infuses your editor with a sense of sophistication and vitality. It's a nice and minimalistic interface with borderless style (especially for Jupyter Notebook).
 
 The Theme include Three variants for each dark | color theme :
 
 The **Hard** | **Medium** | **Soft** variants, which were computed using the Paster Water Harry Hopkinson theme.
-~
 
 ## Color Palette
 
@@ -25,7 +24,6 @@ The color palette has been computed on the former image using K-MEANS Bisecting 
 | Soft      | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/light-soft.png)   | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/dark-soft.png)   |
 | Medium    | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/light-medium.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/dark-medium.png) |
 | Hard      | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/light-hard.png)   | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/dark-hard.png)   |
-| Deep      | SOON                                                                                             | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/dark-deep.png)   |
 
 ## Feedback
 
