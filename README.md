@@ -2,7 +2,7 @@
 
 <center>
 
-![PastelWater](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/icon.png)
+<img src="https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/icon.png" alt="drawing" width="200"/>
 
 </center>
 Paster Water is a dynamic and vibrant Visual Studio Code theme designed to ignite your coding experience with its warm and energetic color palette. Inspired by the intensity of a glowing ember, Paster Water infuses your editor with a sense of sophistication and vitality. It's a nice and minimalistic interface with borderless style (especially for Jupyter Notebook).
@@ -16,16 +16,16 @@ The **Hard** | **Medium** | **Soft** variants, which were computed using the Pas
 
 The color palette has been computed on the former image using K-MEANS Bisecting algorithm. A python package is in preparation.
 
-![ColorPalette](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/4_palette.png)
+![ColorPalette](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/pastelwater.png)
 
 ## Preview
 
-| Variation | Light Theme                                                                                                     | Dark Theme                                                                                                    |
-| --------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Soft      | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/light-soft.png)   | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/dark-soft.png)   |
-| Medium    | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/light-medium.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/dark-medium.png) |
-| Hard      | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/light-hard.png)   | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/dark-hard.png)   |
-| Deep      | SOON                                                                                                            | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater-theme-for-VsCode/main/images/dark-deep.png)   |
+| Variation | Light Theme                                                                                      | Dark Theme                                                                                     |
+| --------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Soft      | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/light-soft.png)   | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/dark-soft.png)   |
+| Medium    | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/light-medium.png) | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/dark-medium.png) |
+| Hard      | ![Light](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/light-hard.png)   | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/dark-hard.png)   |
+| Deep      | SOON                                                                                             | ![Dark](https://raw.githubusercontent.com/Chatr0uge/PastelWater/master/images/dark-deep.png)   |
 
 ## Feedback
 
