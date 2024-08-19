@@ -1,0 +1,64 @@
+{
+  "name": "smoothburn",
+  "displayName": "PastelWater",
+  "description": "Pastel Water is a dynamic and vibrant Visual Studio Code theme designed to ignite your coding experience with its warm and energetic color palette. Inspired by the intensity of a sunset, Pastel Water infuses your editor with a sense of sophistication and vitality.",
+  "version": "0.5.3",
+  "author": "Andrea Combette",
+  "publisher": "AndreaCombette",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://github.com/Chatr0uge/smoothburn-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chatr0uge/smoothburn-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "PastelWater Dark Medium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PastelWater-dark-medium.json"
+      },
+      {
+        "label": "PastelWater Dark Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PastelWater-dark-hard.json"
+      },
+      {
+        "label": "PastelWater Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PastelWater-dark-soft.json"
+      },
+      {
+        "label": "PastelWater Light Medium",
+        "uiTheme": "vs",
+        "path": "./themes/PastelWater-light-medium.json"
+      },
+      {
+        "label": "PastelWater Light Hard",
+        "uiTheme": "vs",
+        "path": "./themes/PastelWater-light-hard.json"
+      },
+      {
+        "label": "PastelWater Light Soft",
+        "uiTheme": "vs",
+        "path": "./themes/PastelWater-light-soft.json"
+      }
+    ]
+  },
+  "private": false,
+  "__metadata": {
+    "publisherDisplayName": "AndreaCombette",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": true,
+    "isPreReleaseVersion": false,
+    "pinned": false,
+    "preRelease": false
+  }
+}
